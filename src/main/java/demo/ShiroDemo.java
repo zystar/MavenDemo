@@ -24,6 +24,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
+/**
+ * @author STAR
+ * 参考：https://www.oschina.net/code/snippet_571282_35758
+ */
 public class ShiroDemo
 {
 	private static Logger logger = LoggerFactory.getLogger(ShiroDemo.class); 
